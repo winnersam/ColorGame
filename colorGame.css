@@ -8,6 +8,7 @@ body {
 	padding-bottom: 30%;
 	float: left;
 	margin: 1.66%;
+	border-radius: 30px;
 }
 
 #container {
@@ -24,4 +25,8 @@ h1 {
 	height: 30px;
 	text-align: center;
 	color: black;
+}
+
+.selected {
+	background: orange;
 }
